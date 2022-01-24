@@ -4,10 +4,7 @@ def add(x,y);
 
 # subtract implementation
 def sub(x,y):
-	if(x>y):
-		return x-y
-	else:
-		return y-x       
+	return x-y     # remote repos
 
 #multiply implementation
 def mul(x,y):
