@@ -15,7 +15,7 @@ def mul(x,y):
 
 # divide implementation
 def div(x,y):
-    if y==0:				#on master branch
+    if y==0:			
 		return DIVIDE_BY_0_ERROR  
     else:
 		return x/y
