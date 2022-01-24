@@ -11,7 +11,7 @@ def sub(x,y):
 
 #multiply implementation
 def mul(x,y):
-    return x*y
+     pass
 
 # divide implementation
 def div(x,y):
